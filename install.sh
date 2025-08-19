@@ -4,7 +4,7 @@
 *** 196,221 ****
   function installQuestions() {
   	echo "Welcome to the OpenVPN installer!"
-  	echo "The git repository is available at: https://github.com/angristan/openvpn-install"
+  	echo "The git repository is available at: https://github.com/alvinjaison19/openvpn"
   	echo ""
   
   	echo "I need to ask you a few questions before starting the setup."
